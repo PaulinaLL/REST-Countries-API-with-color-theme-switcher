@@ -1,7 +1,7 @@
 ## REST Countries API with color theme switcher
 
 ### Tech Stack
-- React
+- React with Hooks and Context
 - React Router
 - Styled Components
 
